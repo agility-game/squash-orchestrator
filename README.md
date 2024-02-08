@@ -1,2 +1,2 @@
-# squash-test-management
-Squash Test Management
+# squash-orchestrator
+Squash Orchestrator
