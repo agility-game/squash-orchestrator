@@ -9,3 +9,5 @@ The documentation of the Web application, also known as Squash TM, is available 
 
 Docker images:
 - [squashtest/squash](https://hub.docker.com/r/squashtest/squash): signed image of Squash TM. [This page](https://tm-en.doc.squashtest.com/latest/install-guide/install-squash/docker-install.html?utm_source=dockerhub&utm_medium=link) describes how to deploy it.
+
+We follow the [docker-compose installation](https://tm-en.doc.squashtest.com/latest/install-guide/install-squash/docker-install.html?utm_source=dockerhub&utm_medium=link#docker-compose).
