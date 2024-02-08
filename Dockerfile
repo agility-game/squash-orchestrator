@@ -1,7 +1,7 @@
-# see versions at https://hub.docker.com/_/squashtest/squash-tm
-FROM squashtest/squash-tm:6.0.0
+# see versions at https://hub.docker.com/_/squashtest/squash-orchestrator
+FROM squashtest/squash-orchestrator:4.8.0
 
-WORKDIR $SQUASHTEST_INSTALL
+WORKDIR $SQUASH_ORCHESTRATOR_INSTALL
 COPY . .
 
 ENTRYPOINT []
