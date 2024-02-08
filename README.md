@@ -7,4 +7,5 @@ Squash can be integrated with requirement / user story repositories, bug tracker
 
 The documentation of the Web application, also known as Squash TM, is available [here](https://tm-en.doc.squashtest.com/latest/?utm_source=dockerhub&utm_medium=link) and the one for the test automation [there](https://autom-devops-en.doc.squashtest.com/latest/?utm_source=dockerhub&utm_medium=link).
 
-
+Docker images:
+- [squashtest/squash](https://hub.docker.com/r/squashtest/squash): signed image of Squash TM. [This page](https://tm-en.doc.squashtest.com/latest/install-guide/install-squash/docker-install.html?utm_source=dockerhub&utm_medium=link) describes how to deploy it.
